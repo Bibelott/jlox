@@ -12,3 +12,4 @@ plugins {
 
 rootProject.name = 'jlox'
 include('app')
+include('tools')
